@@ -1,0 +1,4 @@
+A - Sim, pois favorece a organização e controle do sistema.
+
+B - Sim. O elemento ideal da programação estruturada é a seleção (if e switch), permitindo escolher
+entre as contas.

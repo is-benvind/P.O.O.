@@ -1,0 +1,2 @@
+Classes são modelos, objetos são classes em execução. 
+Uma classe seria uma receita, e um objeto seria a comida em si.

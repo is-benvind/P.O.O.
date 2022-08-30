@@ -1,0 +1,12 @@
+Jogo: Basquete
+Objetos: jogadores, técnico, arbítro, comentaristas, torcida.
+Atributos jogadores: nome, número, altura, velocidade.
+Métodos jogadores: atacar, defender.
+Atributos técnico: nome, pensamento estratégico, capacidade de liderança.
+Métodos técnico: comandar, incentivar.
+Atributos arbítro: nome, visão de jogo, capacidade de julgamento.
+Métodos arbítro: analisar, coordenar.
+Atributos comentaristas: nome, dicção, clareza ao se expressar, entendimento a respeito do jogo.
+Métodos comentaristas: analisar, comentar, informar. 
+Atributos torcida: time para o qual torce.
+Métodos torcida: incentivar, vaiar.

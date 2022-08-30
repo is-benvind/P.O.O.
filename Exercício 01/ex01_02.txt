@@ -1,0 +1,2 @@
+Atributos são as propriedades de um objeto. Métodos são as ações que um objeto pode realizar.
+Celular é um exemplo de objeto com atributos (modelo, cor, tamanho) e métodos (calcular, ligar, escrever).

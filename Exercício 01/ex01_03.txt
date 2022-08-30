@@ -1,0 +1,7 @@
+Peso -> Índice de massa corporal
+Tipo de CNH -> Sistema do DETRAN
+Tipo Sanguíneo -> Campanha de doação de sangue
+Habilidade destra -> Ao realizar uma atividade física
+Percentual de gordura -> Índice de massa corporal
+Saldo em conta -> Sistema bancário
+Etnia -> Censo demográfico
