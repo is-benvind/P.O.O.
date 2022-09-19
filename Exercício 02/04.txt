@@ -1,0 +1,2 @@
+Uma linguagem é dita como fraca quando um tipo de dado pode se passar por outro, algo recorrente em linguagem C.
+Por exemplo, char é tanto um caractere, quanto um número.

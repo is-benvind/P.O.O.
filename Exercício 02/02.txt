@@ -1,0 +1,2 @@
+A tipagem dinâmica leva a erros de runtime. Tal fato afeta a produtividade, sendo necessário dedicar mais
+tempo tentando resolver bugs. Além disso, a possibilidade de erros “descobertos” por usuários é maior.

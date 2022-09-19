@@ -1,0 +1,2 @@
+O tipo any seria benéfico, por exemplo, em uma situação em que 
+dados de uma outra biblioteca são recebidos e não se sabe os seus valores.

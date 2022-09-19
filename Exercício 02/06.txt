@@ -1,0 +1,1 @@
+Sim, pois apesar de int e float representarem números, são tipos diferentes de dados.
