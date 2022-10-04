@@ -1,0 +1,1 @@
+Sim, pois um valor não foi atribuido a variável "quantReservas", gerando erro durante a compilação. 

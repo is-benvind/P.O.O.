@@ -1,0 +1,4 @@
+a. 90. A variável passou a apontar para o endereço de c2, portanto todas as operações foram feitas em c2.
+
+b. O objeto referenciado por c1 é perdido. Futuramente o Garbage Collector irá excluir esse objeto da memória 
+automaticamente, liberando espaço.
