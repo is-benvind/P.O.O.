@@ -1,0 +1,1 @@
+O código em questão está instanciando um array e não a classe abstrata.

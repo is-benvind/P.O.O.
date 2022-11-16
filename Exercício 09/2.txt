@@ -1,0 +1,1 @@
+É necessário que a ClasseConcreta implemente os métodos da ClasseAbstrata. 
